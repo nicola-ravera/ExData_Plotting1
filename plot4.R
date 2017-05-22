@@ -2,7 +2,6 @@ Sys.setlocale("LC_ALL","English")
 
 #import
 library (sqldf)
-library(datasets)
 
 # read data source
 datasource <- "../household_power_consumption.txt"

@@ -1,5 +1,4 @@
 library (sqldf)
-library(datasets)
 
 # read data file
 datasource <- "../household_power_consumption.txt"
